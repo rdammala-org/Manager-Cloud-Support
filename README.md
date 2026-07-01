@@ -4,7 +4,7 @@ Personal portfolio site for Rajesh Dammala — Cloud Support Manager profile sho
 
 ## Live Site
 
-[https://rdammala.github.io/Manager-Cloud-Support/](https://rdammala.github.io/Manager-Cloud-Support/)
+[https://rdammala-org.github.io/Manager-Cloud-Support/](https://rdammala-org.github.io/Manager-Cloud-Support/)
 
 ## Tech Stack
 
